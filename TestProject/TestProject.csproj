@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup Label="Analysis">
+        <Analyzer 
+                Include="../CodeAnalytics/CodeAnalytics.csproj"
+                OutputItemType="Analyzer"
+                ReferenceOutputAssembly="false" />
+
+        <ProjectReference 
+                Include="../CodeAnalytics/CodeAnalytics.csproj" 
+                OutputItemType="Analyzer" 
+                ReferenceOutputAssembly="false" />
+    </ItemGroup>
+    
+</Project>
