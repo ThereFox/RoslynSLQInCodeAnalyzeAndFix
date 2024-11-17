@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YBdKMbweuJI=",
+  "success": true,
+  "projectFilePath": "/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/TestProject/TestProject.csproj",
+  "expectedPackageFiles": [
+    "/home/tf/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/CodeAnalytics/bin/Debug/net8.0/CodeAnalytics.deps.json
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/CodeAnalytics/bin/Debug/net8.0/CodeAnalytics.dll
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/CodeAnalytics/bin/Debug/net8.0/CodeAnalytics.pdb
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/CodeAnalytics/obj/Debug/net8.0/CodeAnalytics.csproj.AssemblyReference.cache
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/CodeAnalytics/obj/Debug/net8.0/CodeAnalytics.GeneratedMSBuildEditorConfig.editorconfig
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/CodeAnalytics/obj/Debug/net8.0/CodeAnalytics.AssemblyInfoInputs.cache
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/CodeAnalytics/obj/Debug/net8.0/CodeAnalytics.AssemblyInfo.cs
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/CodeAnalytics/obj/Debug/net8.0/CodeAnalytics.csproj.CoreCompileInputs.cache
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/CodeAnalytics/obj/Debug/net8.0/CodeAnalytics.sourcelink.json
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/CodeAnalytics/obj/Debug/net8.0/CodeAnalytics.dll
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/CodeAnalytics/obj/Debug/net8.0/refint/CodeAnalytics.dll
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/CodeAnalytics/obj/Debug/net8.0/CodeAnalytics.pdb
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/CodeAnalytics/obj/Debug/net8.0/ref/CodeAnalytics.dll

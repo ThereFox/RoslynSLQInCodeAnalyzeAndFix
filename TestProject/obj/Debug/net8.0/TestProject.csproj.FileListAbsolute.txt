@@ -1,0 +1,12 @@
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/TestProject/bin/Debug/net8.0/TestProject.dll
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/TestProject/bin/Debug/net8.0/TestProject.pdb
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/TestProject/obj/Debug/net8.0/TestProject.dll
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/TestProject/obj/Debug/net8.0/TestProject.pdb
+/home/tf/Музыка/TestRabbitMQ/CodeAnalytics/TestProject/obj/Debug/net8.0/ref/TestProject.dll
