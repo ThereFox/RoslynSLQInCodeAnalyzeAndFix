@@ -18,6 +18,8 @@ public class Class1
         
         object test = 123;
         
+        Console.WriteLine(Generated_Name.NameOfClass);
+        Console.WriteLine(Generated_SuperClassName.NameOfClass);
         sql = "test";
         
         Console.WriteLine(sql);

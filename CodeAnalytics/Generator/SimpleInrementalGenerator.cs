@@ -39,9 +39,21 @@ public class SimpleInrementalGenerator : IIncrementalGenerator
             var tokens = SyntaxFactory.ParseTokens("public const ");
             var tokensList = SyntaxFactory.TokenList(tokens);
         
-            var attributeList = SyntaxFactory.List<AttributeListSyntax>(null);
+            var attributeList = SyntaxFactory.List<AttributeListSyntax>(
+                null);
 
-            var variable = SyntaxFactory.VariableDeclarator(NameToken);
+
+            var stringExpression = SyntaxFactory.LiteralExpression(
+                SyntaxKind.StringLiteralExpression, SyntaxFactory.ParseToken($"\"{emptyClass.Identifier}\""));
+            var constInicializer = SyntaxFactory.EqualsValueClause(
+                SyntaxFactory.Token(SyntaxKind.EqualsToken),
+                stringExpression
+                );
+            
+            var variable = SyntaxFactory.VariableDeclarator(
+                NameToken,
+                null,
+                constInicializer);
             var variableList = SyntaxFactory
                 .SeparatedList<VariableDeclaratorSyntax>(
                     new VariableDeclaratorSyntax[]{ variable });
